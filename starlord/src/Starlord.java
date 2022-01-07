@@ -3,5 +3,6 @@ public class Starlord {
         System.out.println("bebra");
         //bebra
         System.out.println();
+        System.out.println("Georgiy");
     }
 }
